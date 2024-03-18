@@ -1,4 +1,4 @@
-# UnsplashDev
+# SignInWithRealtimeDatabase
 Android 7+
 
 ## Application Description
