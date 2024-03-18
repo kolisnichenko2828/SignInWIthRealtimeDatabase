@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "983401746498",
+    "firebase_url": "https://signinwithrealtimedatabase-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "signinwithrealtimedatabase",
+    "storage_bucket": "signinwithrealtimedatabase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983401746498:android:03beeff98f868366a15ddb",
+        "android_client_info": {
+          "package_name": "com.staskokoc.signinwithrealtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFH7-_sT5M5m0BAb7-j73l8jyjsxiUY_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
